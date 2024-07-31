@@ -1,1 +1,1 @@
-# Auto-selfi-using-opencv-and-Python
+# Autoselfi-using-opencv-and-Python
